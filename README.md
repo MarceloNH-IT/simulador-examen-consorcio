@@ -91,33 +91,37 @@ Para poder compartir la herramienta fácilmente con compañeros de estudio sin n
 
 ---
 
-## 🌐 Fase 3: Evolución a Aplicación Web (Streamlit)
+🌐 Fase 3: Evolución a Aplicación Web (Streamlit)
+Para modernizar el proyecto y permitir que cualquier usuario pueda realizar la evaluación de manera interactiva desde cualquier dispositivo y con un solo clic, se migró la herramienta hacia una plataforma web optimizada utilizando Streamlit.
 
-Para modernizar el proyecto y permitir que cualquier persona pueda realizar el examen desde su celular o computadora con un solo clic, migré la herramienta hacia una plataforma web interactiva utilizando Streamlit.
+Paso 1: Creación del Entorno Web (app_examen.py)
+Se desarrolló un script integral adaptado a la interfaz gráfica web, implementando componentes visuales avanzados como st.title, st.subheader y st.radio para la navegación dinámica de opciones y contenedores interactivos.
 
-### Paso 1: Creación del entorno web (app_examen.py)
+Se incorporó lógica de calificación automática en tiempo real, provisión de feedback detallado por cada acierto o desvío, cálculo algorítmico de la nota final y efectos visuales interactivos (st.balloons) al alcanzar la aprobación del examen.
 
-* Desarrollé un nuevo script adaptado a la interfaz gráfica web, utilizando componentes visuales como st.title, st.subheader, st.radio para la selección de opciones y contenedores interactivos.
-* Añadí lógica de calificación instantánea con feedback detallado de aciertos/errores, cálculo de nota final y animaciones festivas (`st.balloons`) al aprobar el examen.
+Paso 2: Pruebas Locales y Validación del Servidor de Desarrollo
+Con el objetivo de garantizar la correcta ubicación de los recursos y asegurar la estabilidad local antes de la puesta en producción, se ejecutaron los siguientes procedimientos técnicos en el Símbolo del sistema (cmd):
 
-### Paso 2: Pruebas Locales del Servidor Web
+Posicionamiento en el directorio de trabajo:
+cd C:\Users\Marcelo-Gestiones\OneDrive\Documentos
 
-Para evitar errores de ubicación y asegurarme de que la consola localizara el archivo sin inconvenientes, realicé los siguientes pasos en el Símbolo del sistema (`cmd`):
+Inicialización del entorno local:
+Se ejecutó el servicio utilizando la ruta absoluta del intérprete y el ejecutable de Streamlit para asegurar la correcta compilación:
+"C:\Users\Marcelo-Gestiones\AppData\Local\Python\pythoncore-3.14-64\Scripts\streamlit.exe" run app_examen.py
 
-1. Me posicioné directamente en el directorio donde resguardo el script web: `cd C:\Users\Marcelo-Gestiones\OneDrive\Documentos`
-2. Inicialicé el servidor de desarrollo local utilizando la ruta completa del ejecutable de Streamlit para garantizar su correcta ejecución: `"C:\Users\Marcelo-Gestiones\AppData\Local\Python\pythoncore-3.14-64\Scripts\streamlit.exe" run app_examen.py`
-3. Automáticamente, el sistema levantó el servidor local e inició una pestaña en mi navegador web en la dirección `http://localhost:8501`, permitiéndome interactuar de manera fluida con la interfaz gráfica.
+Validación de interfaz:
+El sistema levantó de manera automática el servidor de desarrollo local en la dirección http://localhost:8501, permitiendo una verificación fluida de la experiencia de usuario y el diseño responsivo.
 
-*(Adjuntar aquí tu captura de pantalla de la web app corriendo de forma local o en el navegador)*
+(Adjuntar aquí la captura de pantalla correspondiente a la ejecución local o en el navegador)
 
-### Paso 3: Despliegue en la Nube (Streamlit Community Cloud)
+Paso 3: Despliegue en la Nube (Streamlit Community Cloud)
+Se sincronizó e integró el código fuente principal (app_examen.py) junto con el repositorio público alojado en GitHub.
 
-1. Subí el código fuente (`app_examen.py`) a este repositorio público en GitHub.
-2. Me conecté a la plataforma gratuita de Streamlit Community Cloud, vinculé mi repositorio, seleccioné el archivo principal y completé el despliegue (Deploy), obteniendo un enlace web público y oficial.
+Se estableció la vinculación con la infraestructura en la nube de Streamlit Community Cloud, seleccionando el archivo ejecutable de entrada y completando el proceso de despliegue (Deploy), lo que generó un canal de acceso web público, seguro y oficial.
 
-> **🔗 Enlace a la Aplicación en Vivo:** Podés probar el simulador funcionando online haciendo clic en el siguiente enlace:
-> 👉 [Simulador de Examen - Consorcio CABA](https://www.google.com/search?q=https://simulador-examen-consorcio.streamlit.app&utm_source=gemini)
-
+🔗 Acceso Directo a la Aplicación en Vivo:
+Puede probar y evaluar el funcionamiento del simulador en línea ingresando a través del siguiente enlace oficial:
+👉 Simulador de Examen - Consorcio CABA
 ---
 
 
