@@ -7,6 +7,7 @@ A lo largo de este proyecto, evolucioné el software desde un script básico de 
 Adjuntos las imágenes por si les sirve el proceso de creación. 
 ![Descripción de la imagen](Esplicacion%200%20Py.jpg)
 ![Configuracin IDLE](Esplicacion%200.1%20Py.jpg)
+![Vista final del proyecto parte 2](Esplicacion%202%20Py.jpg)
 ![Estructura del examen](Esplicacion%200.2%20Py.jpg)
 ![Validación con while](Esplicacion%200.3%20Py.jpg)
 ![Comando de instalación](Esplicacion%200.4%20Py.jpg)
@@ -15,7 +16,7 @@ Adjuntos las imágenes por si les sirve el proceso de creación.
 ![Vista de la Web App en navegador](Esplicacion%200.7%20Web%20Py.jpg)
 ![Archivos creados web y ejecutable](Esplicacion%200.8%20Archivo%20creado%20Web%20y%20Ejecutable%20Py.jpg)
 ![Vista final del proyecto parte 1](Esplicacion%201%20Py.jpg)
-![Vista final del proyecto parte 2](Esplicacion%202%20Py.jpg)
+
 
 ---
 
