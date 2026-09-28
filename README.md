@@ -4,6 +4,8 @@ Este repositorio documenta el desarrollo y despliegue de mi primer proyecto inte
 
 A lo largo de este proyecto, evolucioné el software desde un script básico de consola hasta transformarlo en una aplicación web moderna y accesible mediante un enlace público.
 
+Esplicacion 0 Py.jpg
+
 ---
 
 ## 🛠️ Fase 1: Desarrollo de la Lógica y Script en Consola (CLI)
