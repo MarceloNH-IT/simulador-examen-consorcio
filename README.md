@@ -28,8 +28,8 @@ Adjuntos las imágenes por si les sirve el proceso de creación.
 
 ![Archivos creados web y ejecutable](Esplicacion8ArchivoPy.jpg)
 
-
-
+**La pagina funciona correctamente para practicar el examen.**
+![Aplicación funcionando en el navegador](Funciona.jpg)
 
 ---
 
