@@ -5,7 +5,9 @@ Este repositorio documenta el desarrollo y despliegue de mi primer proyecto inte
 A lo largo de este proyecto, evolucioné el software desde un script básico de consola hasta transformarlo en una aplicación web moderna y accesible mediante un enlace público.
 
 
-:smile: :clap: **Adjuntos las imágenes por si les sirve el proceso de creación.** :smile: :clap:
+:smile: :clap: **Adjuntos las imágenes por si les sirve el proceso de creación de cada paso para su proyectos** :smile: :clap:
+
+
 **1**
 ![Descripción de la imagen](Esplicacion%200%20Py.jpg)
 
@@ -133,9 +135,9 @@ Para evitar errores de ubicación y asegurarme de que la consola localizara el a
 ![Configuración del Adaptador de Red Puente](FotoNOC.jpg)
 ## 🤝 Conclusión y Contacto
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNH-IT&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarceloNH-IT&layout=compact&theme=radical)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarceloNH-IT&theme=radical)
 
@@ -145,6 +147,6 @@ Para evitar errores de ubicación y asegurarme de que la consola localizara el a
 * **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
 * **🚀 GitHub**: [@MarceloNunez-NOC](https://github.com/MarceloNunez-NOC)
 
-Agradezco el tiempo de quienes visitan mi portafolio en GitHub. Cada laboratorio refleja mi compromiso con el aprendizaje continuo y la práctica aplicada en IT, redes y administración de sistemas. Mi objetivo es demostrar que puedo diagnosticar, resolver y documentar incidentes de manera profesional, utilizando máquinas virtuales y configuraciones de red.
+Agradezco el tiempo de quienes visitan mi portafolio en GitHub. Cada laboratorio refleja mi compromiso con el aprendizaje continuo y la práctica aplicada en IT, redes y administración de sistemas con programacion en python. Mi objetivo es demostrar que puedo diagnosticar, resolver y documentar incidentes de manera profesional, utilizando máquinas virtuales y configuraciones de red y programar de algo simple a cosas complejas. scrip de analisis y diagnostico como resolver incidentes si se me permite. 
 
 Invito a reclutadores y colegas a seguir mis repositorios, donde iré compartiendo nuevos proyectos, certificados y logros. Estoy abierto a colaborar y aportar mi experiencia en entornos que valoren la constancia y la capacidad de resolver problemas.
