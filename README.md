@@ -1,6 +1,6 @@
 # 🏢 Proyecto: Simulador de Examen Multiple Choice para Administración de Consorcios (CABA)
 
-Este repositorio documenta el desarrollo y despliegue de mi primer proyecto integral en Python. Se trata de un simulador de examen interactivo basado en la normativa legal y contable de Propiedad Horizontal (Código Civil y Comercial de la Ciudad Autónoma de Buenos Aires), diseñado específicamente para practicar y rendir con éxito ante el Consejo de Administradores.
+Este repositorio documenta el desarrollo y despliegue de mi primer proyecto integral en **Python**. Se trata de un simulador de examen interactivo basado en la normativa legal y contable de Propiedad Horizontal (Código Civil y Comercial de la Ciudad Autónoma de Buenos Aires), diseñado específicamente para practicar y rendir con éxito ante el Consejo de Administradores.
 
 A lo largo de este proyecto, evolucioné el software desde un script básico de consola hasta transformarlo en una aplicación web moderna y accesible mediante un enlace público.
 
