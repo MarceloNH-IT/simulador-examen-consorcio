@@ -8,39 +8,39 @@ A lo largo de este proyecto, evolucioné el software desde un script básico de 
 :smile: :clap: **Adjuntos las imágenes por si les sirve el proceso de creación de cada paso para su proyectos** :smile: :clap:
 
 
-**1**
+
 ![Descripción de la imagen](Esplicacion%200%20Py.jpg)
 
-**2**
+
 ![Configuracin IDLE](Esplicacion%200.1%20Py.jpg)
 
-**3**
+
 ![Vista final del proyecto parte 2](Esplicacion%202%20Py.jpg)
 
-**4**
+
 ![Estructura del examen](Esplicacion%200.2%20Py.jpg)
 
-**5**
+
 ![Validación con while](Esplicacion%200.3%20Py.jpg)
 
-**6**
+
 ![Comando de instalación](Esplicacion%200.4%20Py.jpg)
 
-**7**
+
 ![Navegación en consola](Esplicacion%200.5%20Py.jpg)
 
-**8**
+
 ![Generación del exe](Esplicacion%200.6%20Py.jpg)
 
-**9**
+
 ![Vista de la Web App en navegador](Esplicacion%200.7%20Web%20Py.jpg)
 
-**10**
+
 ![Archivos creados web y ejecutable](Esplicacion8ArchivoPy.jpg)
 
 :clap: :clap: **La pagina funciona correctamente para practicar el examen.** :clap: :clap:
 Muchas gracias por ver mi portafolio. Les envio un saludo grande. 
-**11 todo funcionando**
+**todo funcionando**
 ![Aplicación funcionando en el navegador](Funciona.jpg)
 
 ---
